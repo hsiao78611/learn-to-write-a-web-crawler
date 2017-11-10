@@ -1,9 +1,7 @@
 # Summary
 
-* [1. Python 資源 \(10/26\)](python-zi-yuan.md)
-* [2. 安裝環境 & 爬蟲入門 \(11/10\)](chapter1.md)
-
-
+* [Python 資源 \(10/26\)](README.md)
+* [安裝環境 & 爬蟲入門 \(11/10\)](chapter1.md)
 
 
 
