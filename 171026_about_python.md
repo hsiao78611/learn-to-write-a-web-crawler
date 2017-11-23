@@ -27,7 +27,7 @@ codecademy 免費的單元跟著做一遍，大略了解基本語法。
 
 看網路上的教學，主要了解 Module, Class...怎麼寫。
 
-然後寫爬蟲會用到 urlib, Beatifulsoop 等，所以也要知道怎麼 import package...
+然後寫爬蟲會用到 urllib2, Beatifulsoop 等，所以也要知道怎麼 import package...
 
-遇到問題就 google 搜尋: python '英文的問題描述或關鍵字'，通常 stackoverflow 比較多解答
+遇到問題就 google 搜尋: python '英文的問題描述或關鍵字'，通常 stackoverflow 會有比較多解答
 
