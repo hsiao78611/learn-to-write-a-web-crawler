@@ -2,8 +2,7 @@
 
 開始之前，先來看段影片吧：
 
-{% youtube src="https://www.youtube.com/watch?v=ApvNdzyvGFA" %}{% endyoutube %} 
-
+https://www.youtube.com/watch?v=ApvNdzyvGFA
 
 
 [https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
