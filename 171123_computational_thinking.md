@@ -2,8 +2,11 @@
 
 開始之前，先來看段影片吧：
 
-https://www.youtube.com/watch?v=ApvNdzyvGFA
+&lt;iframe width="854" height="480" src="[https://www.youtube.com/embed/BAeBvcoNKOg](https://www.youtube.com/embed/BAeBvcoNKOg)" frameborder="0" allowfullscreen&gt;
 
+&lt;/iframe&gt;
+
+[https://www.youtube.com/watch?v=ApvNdzyvGFA](https://www.youtube.com/watch?v=ApvNdzyvGFA)
 
 [https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
 
