@@ -2,9 +2,7 @@
 
 開始之前，先來看段影片吧：
 
-
-
-https://www.youtube.com/watch?v=ApvNdzyvGFA
+{% youtube src="https://www.youtube.com/watch?v=ApvNdzyvGFA" %}{% endyoutube %} 
 
 
 
