@@ -2,7 +2,7 @@
 
 #### 在開始之前
 
-##### \(1\) 請大家安裝個 Python IDE（看你想用哪一個，我是用 PyCharm），並且建立一個 Python 專案，如下：
+##### \(1\) 請大家安裝個 Python IDE（不限，我是用 PyCharm），並且建立一個 Python 專案，如下：
 
 * **repository\_name（資料夾**，專案名稱不限**）**
 
