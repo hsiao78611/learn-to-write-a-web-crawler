@@ -64,13 +64,9 @@ print max(3, 9)
 
 # 類別（Class）
 
-
-
 ---
 
 # 套件（Package）
-
-
 
 
 
