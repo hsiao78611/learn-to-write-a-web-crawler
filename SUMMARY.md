@@ -4,7 +4,7 @@
 
 * [更新日誌](README.md)
 * [前言](qian-yan.md)
-* [基礎觀念](/171123_computational_thinking.md)
+* [基礎觀念](/171123_basic_concepts.md)
 * [Python 學習資源](/171026_about_python.md)
 * [安裝環境 & 爬蟲入門](/171110_install_and_intro.md)
 * [函式、模組、類別與套件](han-shi-3001-mo-zu-3001-lei-bie-yu-tao-jian.md)
@@ -13,4 +13,6 @@
 
 * [Exercise 1 \[solved\]](zuo-ye-qu/exercise_1_solution.md)
 * [Exercise 2](zuo-ye-qu/exercise-2.md)
+
+
 
