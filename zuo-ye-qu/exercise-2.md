@@ -2,9 +2,10 @@
 
 #### 在開始之前
 
-1. 請大家安裝個 Python IDE（看你想用哪一個，我是用 PyCharm），並且建立一個 Python 專案，如下：
+##### \(1\) 請大家安裝個 Python IDE（看你想用哪一個，我是用 PyCharm），並且建立一個 Python 專案，如下：
 
 * **repository\_name（資料夾**，專案名稱不限**）**
+
   * main.py
   * **crawl\_project（資料夾）**
     * \_\_init\_\_.py
@@ -12,13 +13,17 @@
     * df\_info.py
     * df\_upd.py
 
-2. 接著註冊一個 GitHub 帳號，然後將剛才新增的 Python 專案 push 至 GitHub 中，commit 內容自訂。
+
+
+##### \(2\) 接著註冊一個 GitHub 帳號，然後將剛才新增的 Python 專案 push 至 GitHub 中，commit 內容自訂。
 
 之後請大家撰寫的過程中，每到一個段落或更改，都將寫好的內容 push 上去。
 
 （以上請 11/30 前完成）
 
-最後，完成程式的部分且確定抓下來的資料沒問題了，再將以下資料也一併 push 至 GitHub。
+
+
+##### 最後，完成程式的部分且確定抓下來的資料沒問題了，再將以下資料也一併 push 至 GitHub。
 
 * data**（資料夾）**
   * info.csv
