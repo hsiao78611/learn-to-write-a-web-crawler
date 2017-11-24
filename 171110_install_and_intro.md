@@ -22,7 +22,7 @@ Homebrew 是一個 Mac 使用的套件管理工具，可以在自訂的目錄下
 
 [https://stringpiggy.hpd.io/mac-osx-python3-dual-install/](https://stringpiggy.hpd.io/mac-osx-python3-dual-install/)
 
-##### \[Python\] Mac OS / Windows 安裝 Jupyter
+##### \[Python\] Mac OS / Windows 安裝 Jupyter {#install-jupyter}
 
 [https://oranwind.org/bid-data-mac-os-an-zhuang-jupyter/](https://oranwind.org/bid-data-mac-os-an-zhuang-jupyter/)
 

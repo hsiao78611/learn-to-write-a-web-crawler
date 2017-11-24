@@ -49,5 +49,5 @@ Codecademy 免費的單元跟著做一遍，大略了解基本語法。
 
 ##### Jupyter Notebook \(整理資料的時候蠻好用\)
 
-[安裝環境 & 爬蟲入門  &gt;  \[Python\] Mac OS / Windows 安裝 Jupyter](/[Python] Mac OS / Windows 安裝 Jupyter)
+[安裝環境 & 爬蟲入門  &gt;  \[Python\] Mac OS / Windows 安裝 Jupyter](//171110_install_and_intro.md#install-jupyter)
 
