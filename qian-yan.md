@@ -8,7 +8,7 @@
 
 個人認為 Codecademy + 良葛格的學習筆記 + Google & StackOverflow 就很足夠。
 
-
+ 
 
 由於當初在為論文爬資料時，並沒有想到 Jack 會要我教大家怎麼寫爬蟲，
 
@@ -33,19 +33,17 @@
   * individuals 爬個別專案的 project（主頁）、rewards、faqs、updates、comments。  
     （其中有兩個 crawler，upd 開頭的抓的是個別 update 的內容，因為比較單純就沒有另外開個 df 開頭的檔案）
 
-
+ 
 
 我是有做出可以透過 Tor 去偽裝成其他 IP，但有時候會比較慢，或中斷。
 
 結果 Kickstarter 好像也沒在管，之後抓我都關掉沒用了...
 
-
+ 
 
 另外，為了能夠同時抓上萬筆專案的資料，尤其是資助者留言的部分，
 
 所以我也有利用 multiprocessing，實現最多同時 8 組 crawler 在跑，
 
 但我也是東湊西湊出來的就是了... 畢竟有時間壓力嘛~
-
-
 
