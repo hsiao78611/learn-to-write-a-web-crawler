@@ -17,7 +17,8 @@
 
 Decomposition 原則上就和字面上的解釋差不多，將大的問題拆成數個小問題，並且透過解決這些小問題，進而解答一開始的大問題。接著在拆解問題的過程中，我們會發現常常重複進行著「拆成數個小問題」的動作，而這樣的規律就是所謂的 Pattern（模式）。接著透過觀察模式的運作，我們可以再將這運作過程抽象化（Abstract）成一個數學公式、或者其他可以表示這 Pattern 是如何形成的方法。最後，將上述的數學公式或方法，轉換成依步驟進行的程序，就會形成所謂的演算法（Algorithm）。
 
-# Divide and Conquer（分而治之）
+---
+# Divide and Conquer 分而治之
 
 這個觀念正好與運算思維中的 Decomposition 相呼應。
 
@@ -35,7 +36,8 @@ Decomposition 原則上就和字面上的解釋差不多，將大的問題拆成
 
 其中 recursively 是實現 divide-and-conquer 常常會用到的方法。
 
-# Recursion（遞迴）＆Iterative（迭代）
+---
+# Recursion 遞迴 ＆ Iterative 迭代
 
 其中在抽象化的過程中，我們要考慮實現 Pattern 時，重複的步驟是要以「遞迴」還是「迭代」的方式去進行。
 
@@ -54,16 +56,15 @@ Decomposition 原則上就和字面上的解釋差不多，將大的問題拆成
 
 這裡並不是說遞迴就是不好，而是要提醒大家在寫程式的時候要稍微注意一下程式執行的效率。
 
-### 其他參考資料
+#### 其他參考資料
 
-#### 演算法也有不神祕的一面（下集）
-
+**演算法也有不神祕的一面（下集**
 [https://school.soft-arch.net/blog/154515/on-algorithm-myth](https://school.soft-arch.net/blog/154515/on-algorithm-myth)
 
-#### 遞迴的美麗與哀愁 遞迴本質上是將複雜問題單純化
-
+**遞迴的美麗與哀愁 遞迴本質上是將複雜問題單純化**
 [https://www.ithome.com.tw/node/81087](https://www.ithome.com.tw/node/81087)
 
+---
 # pseudocode 虛擬碼
 
 既然提到計算思維了，就不得不提一下 pseudocode。因為一開始寫程式常常腦中已經有想法、有概念，但突然要寫出來就腦袋一片空白。這是因為我們都習慣用自己熟悉的語言去思考，例如要實現 1+1==2，腦中想的是一加一等於二，但對電腦來說可能是 Equals\(Plus\(1,1\)\)，也就是 Plus 這函數有兩個參數分別為一，而這又是 Equals 這函數的參數。...嗯，總之，在我們動手寫程式前，建議可以先寫 pseudocode，不論形式為何（中英夾雜、畫圖、畫箭頭），先在紙上以運算思維的方式想清楚了每一個步驟要做什麼，最後你的 algorithm 長得怎麼樣，再來開始將這些步驟寫成程式。
@@ -88,13 +89,4 @@ Decomposition 原則上就和字面上的解釋差不多，將大的問題拆成
 > }  
 > output total
 
-模組
-
-#### 模組化老哏細談
-
-[https://www.ithome.com.tw/voice/88488](https://www.ithome.com.tw/voice/88488)
-
-DataFrame
-
-Exercise 2
 

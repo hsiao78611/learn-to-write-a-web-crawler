@@ -1,33 +1,53 @@
-# 關於 Python
+# Python 資源
 
-#### **入門體驗**
+---
 
+## Python **入門**
+
+**Codecademy 的 Python 教學**  
 [https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
 
-#### 好用的 IDE \(因人而異囉\)
+**主要常用的語法**  
+[https://www.codecademy.com/articles/glossary-python](https://www.codecademy.com/articles/glossary-python)
 
-[https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+##### Python 程式碼風格指引
 
-之後做統計的話推薦用 Jupyter Notebook
+[https://www.openfoundry.org/tw/tech-column/9179-python-](https://www.openfoundry.org/tw/tech-column/9179-python-)
 
-#### 學習資源  \(當然不只這些\)
+---
+
+## 中文學習資源整理
+
+##### 良葛格學習筆記 - Python Tutorial
 
 [https://openhome.cc/Gossip/CodeData/PythonTutorial/index.html](https://openhome.cc/Gossip/CodeData/PythonTutorial/index.html)  
-[https://www.tutorialspoint.com/python/index.htm](https://www.tutorialspoint.com/python/index.htm)
+\(我覺得只要會「函式、模組、類別與套件」以前的就足夠寫個爬蟲了。\)
 
-\(我覺得只要會「函式、模組、類別與套件」以前的就足夠了。\)
+##### Beautiful Soup 4.2.0 文档
 
-\( 2017/11/08 新增 \)  
-1. 主要常用的語法：[https://www.codecademy.com/articles/glossary-python](https://www.codecademy.com/articles/glossary-python)  
-2. 還不錯的簡中教材：[https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+[https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)
 
-#### 我的學習方法
+---
 
-codecademy 免費的單元跟著做一遍，大略了解基本語法。
+## 我的學習方法
+
+Codecademy 免費的單元跟著做一遍，大略了解基本語法。
 
 看網路上的教學，主要了解 Module, Class...怎麼寫。
 
 然後寫爬蟲會用到 urllib2, Beatifulsoop 等，所以也要知道怎麼 import package...
 
-遇到問題就 google 搜尋: python '英文的問題描述或關鍵字'，通常 stackoverflow 會有比較多解答
+**遇到問題就 google 搜尋** python "英文的問題描述或關鍵字"，通常 Stack Overflow 會有比較多解答。
+
+---
+
+# 其他
+
+##### 好用的 IDE \(因人而異囉\)
+
+[https://www.jetbrains.com/pycharm/](https://www.gitbook.com/book/hsiao786111/learning-journal/edit#)
+
+##### Jupyter Notebook \(整理資料的時候蠻好用\)
+
+[安裝環境 & 爬蟲入門  &gt;  \[Python\] Mac OS / Windows 安裝 Jupyter](/[Python] Mac OS / Windows 安裝 Jupyter)
 

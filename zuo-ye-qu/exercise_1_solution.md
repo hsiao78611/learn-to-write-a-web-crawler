@@ -5,8 +5,6 @@
 > 標題, 募資目標金額, 已達金額, 人數, 募資期限\(funding period\)。  
 > 先不用作字串處理，只要找到該欄位的值，再 print 出來就好。
 
-
-
 首先，抱歉，我沒注意到他影片中用的是 select，這叫 CSS 選擇器。  
 顧名思義，這是利用 CSS 去尋找在那樣式下的所有 html 內容。  
 但前提是對該網頁的 CSS 要很熟悉，知道哪些 class 和 id 下就有你要的資料。
@@ -39,8 +37,6 @@ soup.select('head > title')[0].text
 
 > 'Deiland - RPG, adventure and sandbox game in a little planet by Chibig —Kickstarter'
 
-
-
 或想用其他方法。
 
 首先找到 title:
@@ -64,8 +60,6 @@ soup.find('title')
 
 &lt;title&gt;Deiland - RPG, adventure and sandbox game in a little planet by Chibig —Kickstarter&lt;/title&gt;
 
-
-
 Google: python remove html tag  
 [https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string](https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string)
 
@@ -77,8 +71,6 @@ soup.find('title').text
 
 > 'Deiland - RPG, adventure and sandbox game in a little planet by Chibig —Kickstarter'
 
-
-
 output 出來帶有單引號「'」，表示回傳（return）的值是一個字串（string\)；  
 而由於 jupyter 可以將程式碼隱藏，只顯示其他圖文內容，因此需要用 print 這方法讓結果出現在前端。
 
@@ -87,8 +79,6 @@ print(soup.find('title').text) # 執行後沒有出現 Out[] 的 cell
 ```
 
 > Deiland - RPG, adventure and sandbox game in a little planet by Chibig —Kickstarter
-
-
 
 ##### 題外話，若要在一個 cell 內顯示多筆結果，可能的方法就只有：
 
@@ -111,8 +101,6 @@ print('print 2')
 >
 > 'output 2'
 
-
-
 ---
 
 # 募資目標金額
@@ -127,35 +115,33 @@ soup.select('.money')
 
 > \[&lt;span class="money usd project\_currency\_code"&gt;&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$10,000&lt;/span&gt;,
+> &lt;span class="money"&gt;$10,000&lt;/span&gt;,
 >
->  &lt;span class="money usd project\_currency\_code"&gt;&lt;/span&gt;,
+> &lt;span class="money usd project\_currency\_code"&gt;&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$10,000&lt;/span&gt;,
+> &lt;span class="money"&gt;$10,000&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$15&lt;/span&gt;,
+> &lt;span class="money"&gt;$15&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;US$ 25&lt;/span&gt;,
+> &lt;span class="money"&gt;US$ 25&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$30&lt;/span&gt;,
+> &lt;span class="money"&gt;$30&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;US$ 40&lt;/span&gt;,
+> &lt;span class="money"&gt;US$ 40&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$60&lt;/span&gt;,
+> &lt;span class="money"&gt;$60&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$100&lt;/span&gt;,
+> &lt;span class="money"&gt;$100&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$650&lt;/span&gt;,
+> &lt;span class="money"&gt;$650&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$12&lt;/span&gt;,
+> &lt;span class="money"&gt;$12&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$20&lt;/span&gt;,
+> &lt;span class="money"&gt;$20&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$180&lt;/span&gt;,
+> &lt;span class="money"&gt;$180&lt;/span&gt;,
 >
->  &lt;span class="money"&gt;$250&lt;/span&gt;\]
-
-
+> &lt;span class="money"&gt;$250&lt;/span&gt;\]
 
 ```html
 <span class="block navy-600 type-12 type-14-md lh3-lg">
@@ -174,8 +160,6 @@ soup.select('.block.navy-600.type-12.type-14-md.lh3-lg')[0].text
 
 > '\npledged of $10,000 goal\n'
 
-
-
 但是換行的符號（\n）還在，想要去掉它，於是...
 
 Google: python beautifulsoup remove new line tab  
@@ -188,8 +172,6 @@ soup.select('.block.navy-600.type-12.type-14-md.lh3-lg')[0].text.strip()
 
 > 'pledged of $10,000 goal'
 
-
-
 ---
 
 # 已達金額
@@ -199,8 +181,6 @@ soup.select('.block.green-700.js-pledged.medium.type-16.type-24-md')[0].text.str
 ```
 
 > 'US$ 16,634'
-
-
 
 ---
 
@@ -212,8 +192,6 @@ soup.select('div.ml5.ml0-lg.mb2-lg')[0].text.strip()
 
 > '761\n\nbackers'
 
-
-
 中間卡著 \n\n 沒辦法藉由 strip\(\) 處理...  
 其實我只想讓各位抓數字就好了，因為通常也只會需要數字。  
 但既然遇到就來把它替換掉。
@@ -223,8 +201,6 @@ soup.select('div.ml5.ml0-lg.mb2-lg')[0].text.strip().replace('\n\n', ' ')
 ```
 
 > '761 backers'
-
-
 
 ---
 
@@ -236,14 +212,10 @@ soup.select('p > time')[0].text.strip()
 
 > 'Thu, Dec 7 2017 5:59 pm EST'
 
-
-
 6:59 AM \(6:59\) AWST = 5:59 PM \(17:59\) Previous Day EST
 
 網頁可能透過 JavaScript，將時間轉換成瀏覽器所在位置的時區。  
 所以我們看到的都是 AWST
-
-
 
 ---
 
