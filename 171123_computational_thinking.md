@@ -1,9 +1,7 @@
 # Computational Thinking 計算思維
 
 開始之前，先來看段影片吧：
-<iframe width="560" height="315" src="//https://www.youtube.com/watch?v=ApvNdzyvGFA" frameborder="0" allowfullscreen></iframe>
-
-<font color="red">紅色字體</font>
+<iframe width="560" height="315" src="//www.youtube.com/embed/SwrKzkRUlaw?hd=1&autoplay=1&loop=1&playlist=SwrKzkRUlaw" frameborder="0" allowfullscreen></iframe>
 
 [https://www.youtube.com/watch?v=ApvNdzyvGFA](https://www.youtube.com/watch?v=ApvNdzyvGFA)
 
