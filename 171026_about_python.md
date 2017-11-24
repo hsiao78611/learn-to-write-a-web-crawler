@@ -20,14 +20,23 @@
 
 ## 中文學習資源整理
 
-##### 良葛格學習筆記 - Python Tutorial
+* ##### 良葛格學習筆記 - Python Tutorial
 
-[https://openhome.cc/Gossip/CodeData/PythonTutorial/index.html](https://openhome.cc/Gossip/CodeData/PythonTutorial/index.html)  
-\(我覺得只要會「函式、模組、類別與套件」以前的就足夠寫個爬蟲了。\)
+  [https://openhome.cc/Gossip/CodeData/PythonTutorial/index.html](https://openhome.cc/Gossip/CodeData/PythonTutorial/index.html)  
+  （我覺得只要會「函式、模組、類別與套件」以前的就足夠寫個爬蟲了）
 
-##### Beautiful Soup 4.2.0 文档
+* ##### Beautiful Soup 4.2.0 文档
 
-[https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)
+  [https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)
+
+* ##### 爬蟲教學 CrawlerTutorial - by Salas leVirve@Github Update: 2017/07/30 {#crawler-tutorial}
+
+  [https://github.com/leVirve/CrawlerTutorial](https://github.com/leVirve/CrawlerTutorial)  
+  （你們太幸運了，就照他那樣做就對了！）
+
+* ##### Pandas 基礎教學 - DataFrame
+
+  [https://oranwind.org/python-pandas-ji-chu-jiao-xue/\#2dataframe](https://oranwind.org/python-pandas-ji-chu-jiao-xue/#2dataframe)
 
 ---
 
@@ -52,4 +61,8 @@ Codecademy 免費的單元跟著做一遍，大略了解基本語法。
 ##### Jupyter Notebook \(整理資料的時候蠻好用\)
 
 [安裝環境 & 爬蟲入門  &gt;  \[Python\] Mac OS / Windows 安裝 Jupyter](//171110_install_and_intro.md#install-jupyter)
+
+##### 模組化老哏細談
+
+[https://www.ithome.com.tw/voice/88488](https://www.ithome.com.tw/voice/88488)
 
