@@ -1,10 +1,10 @@
 # 更新日誌
 
-* 2017/11/24
+* 2017/11/25
 
   * **Python 資源** 新增 [Python 程式碼風格指引](//171026_about_python.md#python-style)、[Python 命名規則](//171026_about_python.md#python-naming)、完整的[爬蟲教學](//171026_about_python.md#crawler-tutorial)
-  * DataFrame & Module
-  * Exercise 2 \(due by ...\)
+  * [函式、模組、類別與套件](/han-shi-3001-mo-zu-3001-lei-bie-yu-tao-jian.md)
+  * [Exercise 2](/zuo-ye-qu/exercise-2.md) \(due by 12/24\) --- 試試看吧！
 
 * 2017/11/23
 
