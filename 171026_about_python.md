@@ -16,6 +16,10 @@
 
 [https://www.openfoundry.org/tw/tech-column/9179-python-](https://www.openfoundry.org/tw/tech-column/9179-python-)
 
+##### Python 命名規則 {#python-naming}
+
+[http://tw-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python\_style\_rules.html\#id16](http://tw-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules.html#id16)
+
 ---
 
 ## 中文學習資源整理
@@ -34,7 +38,7 @@
   [https://github.com/leVirve/CrawlerTutorial](https://github.com/leVirve/CrawlerTutorial)  
   （你們太幸運了，就照他那樣做就對了！）
 
-* ##### Pandas 基礎教學 - DataFrame
+* ##### Pandas 基礎教學 - DataFrame {#dataframe}
 
   [https://oranwind.org/python-pandas-ji-chu-jiao-xue/\#2dataframe](https://oranwind.org/python-pandas-ji-chu-jiao-xue/#2dataframe)
 

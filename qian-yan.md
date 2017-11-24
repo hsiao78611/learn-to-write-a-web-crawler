@@ -4,7 +4,7 @@
 但還是希望在這一學期結束前，~~我能準時畢業~~，大家能學會寫出自己的爬蟲！  
 不過我重點是放在「做出爬蟲」，所以 Python 就請各位自學了...
 
-個人認為 Codecademy + 良葛格的學習筆記 + Google & StackOverflow 就很足夠。
+個人認為 Codecademy + 良葛格的學習筆記 + Google & StackOverflow 就很足夠。  
 由於當初在為論文爬資料時，並沒有想到 Jack 會要我教大家怎麼寫爬蟲，  
 所以我寫爬蟲的過程、爬文後的筆記、清楚的程式註解，通通都沒有~
 
@@ -12,7 +12,7 @@
 在我的檔案當中：
 
 * crawl\_ 開頭的，都是各個爬蟲的主程式，大概只負責紀錄、輸入、輸出。
-* functions 下：
+* packages 下：
   * utils 放的大多比較像是工具的東西，很多是從其他人那複製及修改的。
   * explore 爬 KS 上全部成功專案的連結。  
     （df 表示 DataFrame，input 是 BS 解析過的 html；output 是一個 DataFrame 形態的表格）

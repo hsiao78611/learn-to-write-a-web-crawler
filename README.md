@@ -2,7 +2,7 @@
 
 * 2017/11/24
 
-  * **Python 資源** 新增 [Python 程式碼風格指引](//171026_about_python.md#python-style)、完整的[爬蟲教學](//171026_about_python.md#crawler-tutorial)
+  * **Python 資源** 新增 [Python 程式碼風格指引](//171026_about_python.md#python-style)、[Python 命名規則](//171026_about_python.md#python-naming)、完整的[爬蟲教學](//171026_about_python.md#crawler-tutorial)
   * DataFrame & Module
   * Exercise 2 \(due by ...\)
 

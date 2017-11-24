@@ -11,6 +11,6 @@
 
 ## 作業區
 
-* [Exercise 1 \[Solution\]](zuo-ye-qu/exercise_1_solution.md)
+* [Exercise 1 \[solved\]](zuo-ye-qu/exercise_1_solution.md)
 * [Exercise 2](zuo-ye-qu/exercise-2.md)
 
