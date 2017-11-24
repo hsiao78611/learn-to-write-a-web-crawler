@@ -1,7 +1,8 @@
 # Computational Thinking 計算思維
 
-開始之前，先來看段影片吧：
-<iframe width="560" height="315" src="//https://www.youtube.com/watch?v=ApvNdzyvGFA" frameborder="0" allowfullscreen></iframe>
+先來看段小影片，了解何謂計算思維吧！
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ApvNdzyvGFA" frameborder="0" allowfullscreen></iframe>
 
 [https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
 
