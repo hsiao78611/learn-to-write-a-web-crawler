@@ -1,13 +1,15 @@
-# Python 資源
+# Python 學習資源
 
 ---
 
 ## Python **入門**
 
-**Codecademy 的 Python 教學**  
+##### **Codecademy 的 Python 教學**
+
 [https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
 
-**主要常用的語法**  
+##### **主要常用的語法**
+
 [https://www.codecademy.com/articles/glossary-python](https://www.codecademy.com/articles/glossary-python)
 
 ##### Python 程式碼風格指引
