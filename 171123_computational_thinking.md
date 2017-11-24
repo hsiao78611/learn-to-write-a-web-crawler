@@ -2,11 +2,8 @@
 
 開始之前，先來看段影片吧：
 
-```markdown
-<iframe width="560" height="315" src="//https://www.youtube.com/watch?v=ApvNdzyvGFA" frameborder="0" allowfullscreen></iframe>
-```
+&lt;iframe width="560" height="315" src="//https://www.youtube.com/watch?v=ApvNdzyvGFA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-  
 [https://www.youtube.com/watch?v=ApvNdzyvGFA](https://www.youtube.com/watch?v=ApvNdzyvGFA)
 
 [https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
