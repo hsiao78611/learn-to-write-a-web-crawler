@@ -80,7 +80,7 @@ Codecademy 免費的單元跟著做一遍，大略了解基本語法。
 
 ---
 
-# 練習
+# 練習（無關爬蟲）
 
 LeetCode
 
@@ -89,6 +89,4 @@ LeetCode
 Codility
 
 [https://app.codility.com/](https://app.codility.com/)
-
-
 
