@@ -20,6 +20,14 @@
 
 [http://tw-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python\_style\_rules.html\#id16](http://tw-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules.html#id16)
 
+##### Python 淺顯易懂的教學（包含稍微進階的主題） {#python-naming}
+
+[https://www.programiz.com/python-programming](https://www.programiz.com/python-programming)
+
+**Python 代码性能优化技巧（相當實用，**
+
+[https://www.ibm.com/developerworks/cn/linux/l-cn-python-optim/index.html](https://www.ibm.com/developerworks/cn/linux/l-cn-python-optim/index.html)
+
 ---
 
 ## 中文學習資源整理
@@ -69,4 +77,18 @@ Codecademy 免費的單元跟著做一遍，大略了解基本語法。
 ##### 模組化老哏細談
 
 [https://www.ithome.com.tw/voice/88488](https://www.ithome.com.tw/voice/88488)
+
+---
+
+# 練習
+
+LeetCode
+
+[https://leetcode.com/](https://leetcode.com/)
+
+Codility
+
+[https://app.codility.com/](https://app.codility.com/)
+
+
 
