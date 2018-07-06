@@ -1,6 +1,6 @@
 # 更新日誌
 
-* [**Gitook 連結**](https://hsiao786111.gitbooks.io/learning-journal/content/)
+* [**GitBook 連結**](https://hsiao786111.gitbooks.io/learning-journal/content/)
 
 * 2017/11/25
 
